@@ -1,4 +1,3 @@
-console.log('funguju');
 /******************ZADANI*****************/
 /*
 Zařiďte, aby se při kliknutí na libovolné tlačítko na displaji kalkulačky objevila cifra, která je na tlačíku napsaná. Postupujte dle návodu:
